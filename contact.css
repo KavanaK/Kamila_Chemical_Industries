@@ -52,3 +52,16 @@ body{
   .details {
       text-align: center;
   }
+  .container{
+    color: white;
+    font-family: cursive;
+}
+#card-header  {
+    background-color: #FF304F;
+}
+#colourstate{
+    color: #CC330D;
+}
+body{
+    background-color: #FFEEEE!important;
+}
