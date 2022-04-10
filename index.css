@@ -29,12 +29,11 @@
 #NewStyle{
     background-color: #0DE2EA;
     color: #B20600;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 #conStyle{
    background-color: white!important;
-    width: 50%!important;
-    height: 50%!important;
+   
 }
 body{
     background-color: #FFEEEE!important;
