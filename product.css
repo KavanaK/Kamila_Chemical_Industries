@@ -8,7 +8,7 @@
      
   }
   .caption:hover + .HiddenContent {
-      display: block;
+      display: contents;
       
       color: #CC330D;
       text-align: center;
