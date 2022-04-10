@@ -25,9 +25,9 @@
     color: #B20600;
     font-family: sans-serif;
 }
-body{
+/*body{
     
-}
+}*/
 figure:hover{
     transform: scale(1.05);
     text-decoration: solid;
