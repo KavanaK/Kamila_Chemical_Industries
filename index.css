@@ -32,11 +32,11 @@
     font-family: sans-serif;
 }
 #conStyle{
-   background-color: white!important;
+   
    
 }
 body{
-    background-color: #FFEEEE!important;
+    
 }
 .card:hover{
     transform: scale(1.05);
@@ -44,5 +44,10 @@ body{
 }
 .card-title{
     color: #B20600;
+<<<<<<< HEAD
     
 }
+=======
+    text-decoration: solid!important;
+}
+>>>>>>> bef942661ed1ce892385f66271ebdafbb1805745
